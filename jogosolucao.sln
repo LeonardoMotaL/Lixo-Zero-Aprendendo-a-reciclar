@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jogo", "jogo\jogo.csproj", "{23075AD5-C10F-45B7-BE5A-59415C7C849E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupLixoZero", "SetupLixoZero\SetupLixoZero.vdproj", "{EBC87905-0A92-4E46-A4DF-FC0E9B8D2981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23075AD5-C10F-45B7-BE5A-59415C7C849E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23075AD5-C10F-45B7-BE5A-59415C7C849E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23075AD5-C10F-45B7-BE5A-59415C7C849E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23075AD5-C10F-45B7-BE5A-59415C7C849E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC87905-0A92-4E46-A4DF-FC0E9B8D2981}.Debug|Any CPU.ActiveCfg = Debug
+		{EBC87905-0A92-4E46-A4DF-FC0E9B8D2981}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EBFB222-1AA9-4E54-B10E-C7CACBDEF4CB}
+	EndGlobalSection
+EndGlobal
